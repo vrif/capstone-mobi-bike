@@ -23,7 +23,7 @@ Python, Scikit-Learn, Keras
 2.  Cleaning the Data - <a href="https://github.com/vrif/capstone-mobi-bike/blob/master/01%20Cleaning%20the%20Data.ipynb">01 Cleaning the Data.ipynb</a>
 3.  Daily Count Regression - <a href="https://github.com/vrif/capstone-mobi-bike/blob/master/02%20Daily%20Count%20Regression.ipynb">02 Daily Count Regression.ipynb</a>
     - Part 1: Regression scheme that investigated different regression techniques.
-      - eg. Linear Regression, Random Forest, XgBoost, CatBoost, Neural Network
+      - eg. Linear Regression, Random Forest, XGBoost, CatBoost, Neural Network
 4.  Exploratory Graphs - <a href="https://github.com/vrif/capstone-mobi-bike/blob/master/03%20Exploratory%20Graphs.ipynb">03 Exploratory Graphs.ipynb</a>
 5.  Region Classification - <a href="https://github.com/vrif/capstone-mobi-bike/blob/master/04%20Region%20Classification.ipynb">04 Region Classification.ipynb</a>
     - Part 2: Classification scheme that investigated different classification techniques.
